@@ -1,0 +1,29 @@
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\bin\Debug\EllGamal.exe
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\bin\Debug\EllGamal.pdb
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\EllGamal.Form1.resources
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\EllGamal.Properties.Resources.resources
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\EllGamal.exe
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\EllGamal.pdb
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.csprojAssemblyReference.cache
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.Form1.resources
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.csproj.GenerateResource.cache
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.csproj.CoreCompileInputs.cache
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\bin\Debug\ElGamal.exe.config
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\bin\Debug\ElGamal.exe
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\bin\Debug\ElGamal.pdb
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\ElGamal.Properties.Resources.resources
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\ElGamal.exe
+C:\Users\София\Downloads\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\ElGamal.pdb
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\bin\Debug\ElGamal.exe.config
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\bin\Debug\ElGamal.exe
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\bin\Debug\ElGamal.pdb
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\obj\x86\Debug\EllGamal.csprojAssemblyReference.cache
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\obj\x86\Debug\EllGamal.Form1.resources
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\obj\x86\Debug\ElGamal.Properties.Resources.resources
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\obj\x86\Debug\EllGamal.csproj.GenerateResource.cache
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\obj\x86\Debug\EllGamal.csproj.CoreCompileInputs.cache
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\obj\x86\Debug\ElGamal.exe
+C:\Users\София\OneDrive\имсит\цебренко\шифрование\EllGamal\EllGamal\obj\x86\Debug\ElGamal.pdb
